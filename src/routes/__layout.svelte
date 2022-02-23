@@ -5,5 +5,7 @@
 
 <main class="bg-bgColor min-h-screen">
 	<Navbar />
-	<slot />
+	<section class="container mx-auto max-w-screen-lg">
+		<slot />
+	</section>
 </main>

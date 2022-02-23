@@ -7,7 +7,7 @@
 </script>
 
 <header class="border-b border-borderColor py-3">
-	<nav class="container mx-auto max-w-screen-md flex justify-between items-center ">
+	<nav class="container mx-auto max-w-screen-lg flex justify-between items-center ">
 		<a href="/">
 			<img src="/logo-1.png" alt="logo" class="w-11 h-11" />
 		</a>
